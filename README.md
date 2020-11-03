@@ -34,4 +34,4 @@ In the morning of March 5, three passenger liners received news reports about mi
 
 The flight to Syktyvkar also landed safely at the destination airport. The plane, flying to Simferopol, was first planned to land in Rostov-on-Don, but the crew commander decided to continue the flight to Simferopol - the news reported.
 
-Source: [www.top-news.online]
+Source: www.top-news.online
