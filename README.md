@@ -1,4 +1,4 @@
-# Three news in Airport: Schiphol, Madrid and Sheremetyevo.
+# Three news in Airport: Schiphol, Madrid and Sheremetyevo
 
 ![Image](airportpics.jpg)
 
