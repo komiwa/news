@@ -7,7 +7,7 @@ Law enforcement officers detained a man with firearms at the Dutch airport Schip
 
 The emergency number received information that a train arriving at the airport, located 20 km from Amsterdam, is riding an armed man - the news said.
 
-"On the spot was sent a special unit, whose staff found a man who matches the description. At him found a loaded firearm," - the news report said.
+*"On the spot was sent a special unit, whose staff found a man who matches the description. At him found a loaded firearm,"* - the news report said.
 
 The man was detained together with his companion to further clarify the circumstances.
 
@@ -22,11 +22,11 @@ Due to the activation of the navigation fault sensor at Sheremetyevo Airport, Sh
 
 At Moscow's Sheremetyevo Airport, an Airbus A330 passenger plane made an emergency landing, flying to Dubai. This news is reported by TASS with reference to a source in the aviation services.
 
-"The plane flew from Sheremetyevo to Dubai about 40 minutes ago. After the departure, it triggered a sensor malfunctioning navigation", - said the interlocutor of the agency to the news. The landing was regular, no one was injured.
+*"The plane flew from Sheremetyevo to Dubai about 40 minutes ago. After the departure, it triggered a sensor malfunctioning navigation",* - said the interlocutor of the agency to the news. The landing was regular, no one was injured.
 
 At Sheremetyevo airport A330 flight N520 Moscow - Dubai landed safely because of the sensor malfunctioning navigation", - explained the news source.
 
-"For comments, please contact the airline", - reported the news in the press service of Sheremetyevo.
+*"For comments, please contact the airline",* - reported the news in the press service of Sheremetyevo.
 
 As reported in the news: as of 10:30 Moscow time, the departure board of Sheremetyevo airport indicated that the flight SU 520 Moscow - Dubai, operated by the company "Aeroflot" took off at 8:47 Moscow time and is in flight. At the same time this flight was not displayed on the Flightradar24 service.
 
