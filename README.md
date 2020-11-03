@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Three news in Airport: Schiphol, Madrid and Sheremetyevo.
 
-You can use the [editor on GitHub](https://github.com/komiwa/news/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](airportpics.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- An armed man was detained at Schiphol airport in the Netherlands.
+Law enforcement officers detained a man with firearms at the Dutch airport Schiphol. This is reported in the news of the Dutch military police on Facebook.
 
-### Markdown
+The emergency number received information that a train arriving at the airport, located 20 km from Amsterdam, is riding an armed man - the news said.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"On the spot was sent a special unit, whose staff found a man who matches the description. At him found a loaded firearm," - the news report said.
 
-```markdown
-Syntax highlighted code block
+The man was detained together with his companion to further clarify the circumstances.
 
-# Header 1
-## Header 2
-### Header 3
+- Second news: In early November, the Spanish police detained a man armed with two swords.
 
-- Bulleted
-- List
+The incident took place in Madrid: a man walking along the street naked at waist with two swords and waving them. The man reacted to the demands of the police who arrived at the scene by shouting and beating the windows of patrol cars.
 
-1. Numbered
-2. List
+After that, the police fired warning shots into the air and detained the intruder.
 
-**Bold** and _Italic_ and `Code` text
+- One more news: an Airbus A330 flying to Dubai landed in Sheremetyevo on an emergency flight.
+Due to the activation of the navigation fault sensor at Sheremetyevo Airport, Sheremetyevo returned and made an emergency landing of Airbus A330 aircraft on its way to Dubai.
 
-[Link](url) and ![Image](src)
-```
+At Moscow's Sheremetyevo Airport, an Airbus A330 passenger plane made an emergency landing, flying to Dubai. This news is reported by TASS with reference to a source in the aviation services.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"The plane flew from Sheremetyevo to Dubai about 40 minutes ago. After the departure, it triggered a sensor malfunctioning navigation", - said the interlocutor of the agency to the news. The landing was regular, no one was injured.
 
-### Jekyll Themes
+At Sheremetyevo airport A330 flight N520 Moscow - Dubai landed safely because of the sensor malfunctioning navigation", - explained the news source.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/komiwa/news/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"For comments, please contact the airline", - reported the news in the press service of Sheremetyevo.
 
-### Support or Contact
+As reported in the news: as of 10:30 Moscow time, the departure board of Sheremetyevo airport indicated that the flight SU 520 Moscow - Dubai, operated by the company "Aeroflot" took off at 8:47 Moscow time and is in flight. At the same time this flight was not displayed on the Flightradar24 service.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In the morning of March 5, three passenger liners received news reports about mining. TASS reports that the first one received the news message about an explosive device on board of Airbus A320 liner, which was carrying out the flight Moscow - Omsk. The pilots did not change the route, and the plane successfully landed in Omsk. Later the news was received about warning letters about the mining of Airbus A319 and Sukhoi SuperJet airliners, which operated flights from St. Petersburg to Simferopol and from Moscow to Syktyvkar respectively.
+
+The flight to Syktyvkar also landed safely at the destination airport. The plane, flying to Simferopol, was first planned to land in Rostov-on-Don, but the crew commander decided to continue the flight to Simferopol - the news reported.
+
+Source: www.top-news.online
